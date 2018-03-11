@@ -1,6 +1,6 @@
 ## Introduction
 
-How do Python draw a tree? 
+How do Python draw a tree step by step? 
 
 Using `turtle` and recursion~
 
