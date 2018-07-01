@@ -1,8 +1,4 @@
-# Cool Scripts
+**Draw a tree using python!**
 
-## Python
 
-### fractal_tree.py
-
-Draw a tree using python!
 
